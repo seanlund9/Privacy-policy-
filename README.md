@@ -3,7 +3,7 @@
 
   **Last updated: December 24, 2024**
 
-  Times Tables does not collect, store, or share any personal information.
+  X-Calculaitor does not collect, store, or share any personal information.
 
   All your practice data (scores, progress, streaks) is stored locally on your device and
   is never transmitted to any server.
